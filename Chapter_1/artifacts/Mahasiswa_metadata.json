@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "patpat",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "ray",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "dipatpat",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Chapter_1/tugas_2.sol": "Mahasiswa"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Chapter_1/tugas_2.sol": {
+			"keccak256": "0x3153977353f4d3f58bf75e2943f405fa6653f23dfbf1008ff61e83d9e5f9f161",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c6fde2cab9eef13b631503b905c4269026d37e680ce50207706bbe6228e870cf",
+				"dweb:/ipfs/QmZKBMtw1kJwUYj7XdWYwicK1quJnjpSe2pZfTtdqcDUfJ"
+			]
+		}
+	},
+	"version": 1
+}
